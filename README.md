@@ -16,3 +16,5 @@ If you want to start the server locally without Docker, use the following comman
 ```bash
 npm run start
 ```
+# Note: If you want to run it locally, make sure to uncomment the following line in server.js:
+// executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
