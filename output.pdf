@@ -1,0 +1,1 @@
+{"statusCode":400,"error":"Bad Request","message":"Bad control character in string literal in JSON at position 25 (line 1 column 26)"}

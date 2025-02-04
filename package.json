@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "fastify": "^5.2.1",
+    "fastify-cli": "^7.3.0",
+    "puppeteer": "^21.0.0"
+  }
+}
